@@ -17,7 +17,7 @@ This project simulates essential aspects of the **5G New Radio (NR)** physical l
 
 ## 🛠️ Tech Stack
 
-- **Language**: Python 3.x
+- **Language**: Matlab
 - **Libraries Used**:
   - `numpy`
   - `scipy`
